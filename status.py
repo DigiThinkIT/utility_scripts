@@ -1,3 +1,11 @@
+#########################################################
+# Simple script to check the git status for each application in the apps folder
+# Useful when you want to get an git overview of all your apps
+#
+# Usage : cd <bench-folder> && python status.py
+#
+#########################################################
+
 import os
 import subprocess
 from bench.utils import print_output

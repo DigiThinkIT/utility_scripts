@@ -2,3 +2,4 @@
 A collection of useful scripts
 
 Drop the files in your bench directory (frappe-bench) and run them
+Check files for usage
